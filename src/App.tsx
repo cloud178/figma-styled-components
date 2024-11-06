@@ -29,9 +29,6 @@ function App() {
                                    btnType={"outlined"}>Save</StyledBtn>
                     </BtnDiv>
                 </Card>
-                {/*<Card>*/}
-                {/*    2*/}
-                {/*</Card>*/}
             </Main>
         </div>
     );
