@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 
-export const TextStyled = styled.div`
+export const TextStyled = styled.p`
     font-weight: 500;
     color: #ABB3BA;
     font-size: 12px;
