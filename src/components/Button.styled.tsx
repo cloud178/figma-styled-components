@@ -1,6 +1,4 @@
 import styled, {css} from "styled-components";
-import React from "react";
-
 
 export const BtnDiv = styled.div`
     display: flex;
